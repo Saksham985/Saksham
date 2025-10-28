@@ -1,0 +1,22 @@
+{
+    "1234": {
+        "name": "saksham",
+        "password": "passcode",
+        "balance": 5610.0,
+        "transactions": [
+            "Deposited: \u20b980000.0",
+            "Withdrawn: \u20b940000.0",
+            "Withdrawn: \u20b920000.0",
+            "Deposited: \u20b9500.0",
+            "Withdrawn: \u20b910000.0",
+            "Withdrawn: \u20b95000.0",
+            "Deposited: \u20b9110.0"
+        ],
+        "savings": {
+            "education": {
+                "target": 750000.0,
+                "current": 600000.0
+            }
+        }
+    }
+}
